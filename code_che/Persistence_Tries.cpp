@@ -1,3 +1,6 @@
+//https://www.codechef.com/problems/BINSTR
+
+
 #include <bits/stdc++.h>
 using namespace std;
 #define mp make_pair

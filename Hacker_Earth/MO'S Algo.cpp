@@ -1,3 +1,6 @@
+
+//https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/easy-queries-751f9372/description/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

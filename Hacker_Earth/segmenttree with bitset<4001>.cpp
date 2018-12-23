@@ -66,7 +66,7 @@ while(q--){
 
     int a1 , b1 , c , d;
     scanf("%d%d%d%d",&a1,&b1,&c,&d);
-    cout<<  ( query_1( 1 , 1 , n , a1 , b1 ) | query_2( 1 , 1 , n , c ,d ) );
+    cout<<  ( query_1( 1 , 1 , n , a1 , b1 ) | query_2( 1 , 1 , n , c ,d ) ).count();
     printf("\n");
 
 

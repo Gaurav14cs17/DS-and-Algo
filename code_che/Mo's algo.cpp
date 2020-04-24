@@ -1,4 +1,4 @@
-// https://www.codechef.com/APRIL20A/problems/FCTRE
+// Problems link :  https://www.codechef.com/APRIL20A/problems/FCTRE
 
 #include"bits/stdc++.h"
 using namespace std;
